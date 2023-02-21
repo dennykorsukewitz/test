@@ -1,6 +1,5 @@
 ---
 layout: home
-# Index page
 ---
 
 

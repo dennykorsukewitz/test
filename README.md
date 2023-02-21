@@ -1,6 +1,5 @@
 ---
 layout: page
-# Index page
 ---
 
 test
